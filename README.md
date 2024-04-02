@@ -17,5 +17,3 @@ I use github to make my research reproducible by sharing the data and code of my
 
 
 📫 How to reach me: marcelo.araya (at) ucr.ac.cr (*If you have question about using any of my software packages please read the associated documentation first*)
-
-![Metrics](/github-metrics.svg)
