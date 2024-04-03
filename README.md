@@ -7,6 +7,7 @@ I use github to make my research reproducible by sharing the data and code of my
 | Package | What it does |
 |---------|--------------|
 | [baRulho](https://github.com/ropensci/baRulho) | Aims to facilitate the implementation of (animal) sound transmission experiments from playback design to degradation quantification |
+| [suwo](https://github.com/maRce10/suwo) | Access nature media repositories |
 | [warbleR](https://github.com/maRce10/warbleR) | Quantify the structure of animal acoustic signals |
 | [ohun](https://github.com/ropensci/ohun) | Optimize sound event detection |
 | [dynaSpec](https://github.com/maRce10/dynaSpec) | Create dynamic visualizations of sound (spectrogram movies) |
