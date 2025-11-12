@@ -1,4 +1,4 @@
- 👋 I am an evolutionary behavioral ecologist, that develops software packages for analyzing behavioral/biological data.
+ 👋 I am an evolutionary behavioral ecologist that develops software packages for analyzing behavioral/biological data.
 
 I use github to make my research reproducible by sharing the data and code of my projects (most of my repos are research projects). I also use it to develop and maintain several R packages:
 
