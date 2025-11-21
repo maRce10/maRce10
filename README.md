@@ -1,6 +1,15 @@
- 👋 I am an evolutionary behavioral ecologist that develops software packages for analyzing behavioral/biological data.
 
-I use github to make my research reproducible by sharing the data and code of my projects (most of my repos are research projects). I also use it to develop and maintain several R packages:
+<p align = "center">
+ 
+👋 I'm an evolutionary behavioral ecologist and software developer.
+
+   🔬 Research: I study the ecology and evolution of animal behavior. Learn more on [my personal website](https://marce10.github.io/).
+
+   🛠️ Tools: I develop R packages to help the scientific community analyze biological (mostly behavioral) data.
+
+   📖 Reproducibility: I use GitHub to share the complete code and data from my research, ensuring transparency and reproducibility.
+
+These are the packages I maintain:
 
 [![:name status badge](https://maRce10.r-universe.dev/badges/:name)](https://maRce10.r-universe.dev)
 
@@ -18,3 +27,19 @@ I use github to make my research reproducible by sharing the data and code of my
 
 
 📫 How to reach me: marcelo.araya (at) ucr.ac.cr (*If you have question about using any of my software packages please read the associated documentation first*)
+</p>
+
+##
+
+<!--- Comentário: Aba status ------------------------------------
+ -->
+
+<p align = "center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=maRce10&show_icons=true&show=prs_merged&hide=issues&icon_color=000000&hide_border=true&text_color=555&rank_icon=github&card_width=200&theme=transparent"/>
+&nbsp;
+
+<img  height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=maRce10&theme=transparent&layout=donut&hide=CSS,JavaScript,SCSS,jupyter%20notebook&hide_border=true"/>
+
+</p>
+
